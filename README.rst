@@ -1,6 +1,9 @@
 Django-Oscar Demo
 ------------------
 
+**NOTE**: This is a copy of the old demo site from the Django Oscar repository. See https://github.com/django-oscar/django-oscar/pull/1911f or more information.
+
+
 This is intended to show off some of Oscar's features, such as:
 
 * Customising core models
